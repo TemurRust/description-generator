@@ -1,3 +1,5 @@
+https://github.com/mongodb-industry-solutions/description-generator
+
 # Product Description Generator
 
 ## Table of Contents
